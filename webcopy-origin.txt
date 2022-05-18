@@ -1,0 +1,316 @@
+Uri: https://alsoftworks.000webhostapp.com/
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\index-2.htm
+Content Type: text/html
+
+Uri: https://alsoftworks.000webhostapp.com/?404
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\index-3.htm
+Content Type: text/html
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\animate-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\magnific-popup.min-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/meanmenu.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\meanmenu-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/odometer.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\odometer-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\owl.carousel.min-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\owl.video.play-1.html
+Content Type: text/html
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\responsive-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\slick-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\css\style-1.css
+Content Type: text/css
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-bg1.jpg
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-bg1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/bin.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\bin-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/book.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\book-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/carpet.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\carpet-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/code.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\code-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/dekstop.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\dekstop-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/dot.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\dot-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/flower-top-big.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\flower-top-big-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/flower-top.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\flower-top-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/headphone.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\headphone-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/keyboard.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\keyboard-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/main-pic.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\main-pic-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/man.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\man-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/pen.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\pen-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/table.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\table-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/banner-image/tea-cup.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\banner-image\tea-cup-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/client-image/logo.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\client-image\logo-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/client-image/myaltpfp.gif
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\client-image\myaltpfp-1.gif
+Content Type: image/gif
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/client-image/nope.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\client-image\nope-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/client-image/rsz_myaltpfp.gif
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\client-image\rsz_myaltpfp-1.gif
+Content Type: image/gif
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/client-image/yt_furky.gif
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\client-image\yt_furky-1.gif
+Content Type: image/gif
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/map.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\map-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/cercle-shape.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\cercle-shape-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/creative.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\creative-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/developer.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\developer-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/flower-top.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\flower-top-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/main-pic.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\main-pic-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/small-monitor.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\small-monitor-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/small-top.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\small-top-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/table.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\table-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/target.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\target-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/services-left-image/window-night.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\services-left-image\window-night-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/shape1.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\shape1-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/shape2.svg
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\shape2-1.svg
+Content Type: image/svg+xml
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/shape3.svg
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\shape3-1.svg
+Content Type: image/svg+xml
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/shape4.svg
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\shape4-1.svg
+Content Type: image/svg+xml
+
+Uri: https://alsoftworks.000webhostapp.com/assets/img/shape5.png
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\img\shape5-1.png
+Content Type: image/png
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\bootstrap.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/contact-form-script.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\contact-form-script-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/feather.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\feather.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/form-validator.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\form-validator.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\jquery.appear-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\jquery.magnific-popup.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/jquery.meanmenu.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\jquery.meanmenu.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/odometer.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\odometer.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\owl.carousel.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\popper.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/slick.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\slick-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/startp-map.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\startp-map-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\assets\js\wow.min-1.js
+Content Type: application/javascript
+
+Uri: https://alsoftworks.000webhostapp.com/cdn-cgi/images/favicon.ico
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\cdn-cgi\images\favicon-1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://alsoftworks.000webhostapp.com/css
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\css-1
+Content Type: 
+
+Uri: https://alsoftworks.000webhostapp.com/gtag/js-1?id=AW-529480907
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\gtag\js-1-1
+Content Type: text/plain
+
+Uri: https://alsoftworks.000webhostapp.com/gtag/js?id=G-ND0GE6JE5V
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\gtag\js-2
+Content Type: 
+
+Uri: https://alsoftworks.000webhostapp.com/index.php
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\index.php-2.html
+Content Type: text/html
+
+Uri: https://alsoftworks.000webhostapp.com/index.php?404
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\index.php-3.html
+Content Type: text/html
+
+Uri: https://alsoftworks.000webhostapp.com/pagead/js/f.txt
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\pagead\js\f-3.txt
+Content Type: text/plain
+
+Uri: https://alsoftworks.000webhostapp.com/terms.html
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\terms.html
+Content Type: text/html
+
+Uri: https://arc.io/widget.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\widget.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@widgetbot/html-embed
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\npm\@widgetbot\html-embed-1
+Content Type: application/javascript
+
+Uri: https://config.confirmic.com/config.js?id=prj:d1fa7c47-63da-4be3-b4ec-a227bb98b211
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\config-1.js
+Content Type: application/javascript
+
+Uri: https://consent-manager.confirmic.com/embed.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\embed-1.js
+Content Type: text/javascript
+
+Uri: https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png?ID=//www.dmca.com/Protection/Status.aspx?id=b014130a-ca56-4561-8a84-a75572e4febc
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\Badges\dmca-badge-w100-5x1-01-1.png
+Content Type: image/png
+
+Uri: https://images.dmca.com/Badges/DMCABadgeHelper.min.js
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\Badges\DMCABadgeHelper.min-1.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7424992060679371
+File Name: C:\Downloaded Web Sites\alsoftworks.000webhostapp.com\pagead\js\f-2.txt
+Content Type: text/javascript
+
